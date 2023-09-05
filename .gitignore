@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Local configuration and secrets
+.env
+
+# Alembic configuration
+alembic.ini
+
+# Alembic migrations
+alembic/
+
+#
+.pytest_cache
